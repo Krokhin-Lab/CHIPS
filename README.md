@@ -17,4 +17,4 @@ The Chromatogrphic Hydropathy Index for Peptides (CHIPS), is model of peptide hy
 > Publication in preparation. If you use this tool in your research,
 > please check back for the full citation before publishing.
 
-Launch the interactive app: [CHIPs on Streamlit](https://chips-krokhin-lab.streamlit.app)
+Launch the interactive app: [CHIPs on Streamlit] (https://krokhin-lab-chips.streamlit.app)

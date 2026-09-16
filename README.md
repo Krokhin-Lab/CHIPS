@@ -11,7 +11,7 @@ The Chromatogrphic Hydropathy Index for Peptides (CHIPS), is model of peptide hy
 
 **Authors:** Oleg V. Krokhin, Alexandre Préfontaine, Victor Spicer  
 **Affiliation:** Manitoba Centre for Proteomics and Systems Biology, University of Manitoba  
-**Copyright:** Copyright (C) 2024 Oleg V. Krokhin, Alexandre Préfontaine  
+**Copyright:** Copyright (C) 2026 Oleg V. Krokhin, Alexandre Préfontaine  
 **License:** GNU General Public License v3.0 — see [LICENSE](LICENSE) for details.
 
 > Publication in preparation. If you use this tool in your research,
